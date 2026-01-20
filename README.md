@@ -3,6 +3,8 @@ i work on random projects tbh.
 
 archived = patched
 
+### join our account generator server! https://discord.gg/MHurZrKPpM
+
 ## coding languages i know
 <p> 
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/python/python-original.svg" width="50" /> 
